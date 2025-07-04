@@ -1,4 +1,4 @@
-import css from '../css/Notification.module.css'
+import css from '../../css/Notification.module.css'
 
 export default function Notification() {
     return (
